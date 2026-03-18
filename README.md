@@ -19,7 +19,7 @@ through deployment.
 ### Currently
 - Building ML pipelines for computer vision applications
 - Exploring edge deployment and optimized inference
-- Open to select consulting in CV systems and ML pipelines
+- Open to select consulting in CV systems, ML pipelines, and Hardware Design
 
 ---
 
