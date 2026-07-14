@@ -10,11 +10,11 @@ activity recognition, and model optimization from training
 through deployment.
 
 ### Background
-- 🎓 M.S. Computer Engineering
-- 🔬 Research in Hyperdimensional Computing for Human Activity Recognition (HAR)
-- 🧠 ML systems: PyTorch, YOLO, TensorRT, ONNX, FastAPI
-- ⚡ Hardware: VLSI, CMOS, Digital Design, Verilog
-- 📐 CV: Object detection, pose estimation, inference optimization
+- M.S. Computer Engineering
+- Research in Hyperdimensional Computing for Human Activity Recognition (HAR)
+- ML systems: PyTorch, YOLO, TensorRT, ONNX, FastAPI
+- Hardware: VLSI, CMOS, Digital Design, Verilog
+- CV: Object detection, pose estimation, inference optimization
 
 ### Currently
 - Building ML pipelines for computer vision applications
